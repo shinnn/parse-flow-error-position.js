@@ -1,0 +1,44 @@
+{
+  "name": "parse-flow-error-position",
+  "description": "Parse an error position from the error message of Flow",
+  "keywords": [
+    "flow",
+    "error",
+    "message",
+    "position",
+    "parse",
+    "file",
+    "number",
+    "line",
+    "col",
+    "column",
+    "start",
+    "end"
+  ],
+  "main": "dist/parse-flow-error-position.js",
+  "authors": [
+    {
+      "name": "Shinnosuke Watanabe",
+      "homepage": "https://github.com/shinnn"
+    }
+  ],
+  "homepage": "https://github.com/shinnn/parse-flow-error-position.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shinnn/parse-flow-error-position.js.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "*.yml",
+    "coverage",
+    "dist/parse-flow-error-position-amd.js",
+    "dist/parse-flow-error-position-cjs.js",
+    "node_modules",
+    "src",
+    "test.js",
+    "gulpfile.js",
+    "package.json",
+    "component.json"
+  ]
+}
