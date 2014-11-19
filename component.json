@@ -2,7 +2,7 @@
   "name": "parse-flow-error-position",
   "repository": "shinnn/parse-flow-error-position.js",
   "version": "0.1.0",
-  "description": "Parse an error position from the error message of Flow",
+  "description": "Parse the error position from Flow error message",
   "keywords": [
     "flow",
     "error",

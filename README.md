@@ -5,7 +5,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/shinnn/parse-flow-error-position.js.svg)](https://coveralls.io/r/shinnn/parse-flow-error-position.js)
 [![devDependency Status](https://david-dm.org/shinnn/parse-flow-error-position.js/dev-status.svg)](https://david-dm.org/shinnn/parse-flow-error-position.js#info=devDependencies)
 
-Parse an error position from the error message of [Flow](http://flowtype.org/)
+Parse the error position from [Flow] error message
 
 ```javascript
 parseFlowErrorPosition('/foo/bar.js:8:5,10:1: object literal');
