@@ -1,6 +1,6 @@
 {
   "name": "parse-flow-error-position",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Parse the error position from Flow error message",
   "main": "dist/parse-flow-error-position-cjs.js",
   "files": [
